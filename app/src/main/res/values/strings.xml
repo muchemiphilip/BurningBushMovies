@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BurningBushEnt</string>
+
+    <string name="movie_content_description">movieImage</string>
+    <string name="movie_text_hint">popular image</string>
+    <string name="movie_release_date">release_date</string>
+    <string name="iv_details_content_description">Movie_selected</string>
+    <string name="plotAnalysis">Plot Analysis :</string>
+    <string name="divider">|</string>
+    <string name="toprated_movies">TopRated Movies</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="IMAGE_BASE_URL">https://image.tmdb.org/t/p/w500</string>
+    <string name="API_KEY">80e77d78307bdf5e7c4c1b0f9001fb3f</string>
+    <string name="LANGUAGE">Language</string>
+
+</resources>
